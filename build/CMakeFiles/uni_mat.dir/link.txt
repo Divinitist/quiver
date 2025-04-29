@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/uni_mat.dir/uni_mat_autogen/mocs_compilation.cpp.o CMakeFiles/uni_mat.dir/main/uni_mat.cpp.o -o uni_mat  libnon_qt_lib.a 

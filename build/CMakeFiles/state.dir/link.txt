@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/state.dir/state_autogen/mocs_compilation.cpp.o CMakeFiles/state.dir/main/state.cpp.o -o state  libnon_qt_lib.a 
