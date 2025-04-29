@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/algo_test.dir/algo_test_autogen/mocs_compilation.cpp.o CMakeFiles/algo_test.dir/main/algo_test.cpp.o -o algo_test  libnon_qt_lib.a 

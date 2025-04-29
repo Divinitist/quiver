@@ -1,0 +1,348 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QuantumSimulationProject",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "algo_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-algo_test-Debug-14a307a1284259fd3767.json",
+					"name" : "algo_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "algo_test_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-algo_test_autogen-Debug-e0dc6e3eca7aff54cd28.json",
+					"name" : "algo_test_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "algo_test_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-algo_test_autogen_timestamp_deps-Debug-8a7926a2465527fcc1c5.json",
+					"name" : "algo_test_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "backend::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-backend-Debug-26015f54db0a0682aa28.json",
+					"name" : "backend",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "backend_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-backend_autogen-Debug-800ec6f818e9955a3e09.json",
+					"name" : "backend_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "backend_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-backend_autogen_timestamp_deps-Debug-3a1d1ef4d3ebd0284c8e.json",
+					"name" : "backend_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "circuit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-circuit-Debug-3ab644d7b58d403d988c.json",
+					"name" : "circuit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "circuit_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-circuit_autogen-Debug-9d021204797be8695a21.json",
+					"name" : "circuit_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "circuit_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-circuit_autogen_timestamp_deps-Debug-5acaae8a102d4e021083.json",
+					"name" : "circuit_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "common::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-common-Debug-7ed57aa2cc954cfb0603.json",
+					"name" : "common",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "common_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-common_autogen-Debug-359b5536321790bc910b.json",
+					"name" : "common_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "common_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-common_autogen_timestamp_deps-Debug-f5c1724c73d133cb0f60.json",
+					"name" : "common_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_qs_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_qs_test-Debug-4bb657db269209276b11.json",
+					"name" : "cpp_qs_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_qs_test_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_qs_test_autogen-Debug-7ed44def6c56cab972d4.json",
+					"name" : "cpp_qs_test_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_qs_test_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_qs_test_autogen_timestamp_deps-Debug-56ed20367439a08be3d9.json",
+					"name" : "cpp_qs_test_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "non_qt_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-non_qt_lib-Debug-67da8f1f79c780cb36e4.json",
+					"name" : "non_qt_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "non_qt_lib_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-non_qt_lib_autogen-Debug-db21c20ba5a5f13681d0.json",
+					"name" : "non_qt_lib_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "non_qt_lib_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-non_qt_lib_autogen_timestamp_deps-Debug-e63c0ac535a796ff9e7c.json",
+					"name" : "non_qt_lib_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "parser_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-parser_test-Debug-fb0b2a86b2d321955df0.json",
+					"name" : "parser_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "parser_test_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-parser_test_autogen-Debug-8f2836deadc577380739.json",
+					"name" : "parser_test_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "parser_test_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-parser_test_autogen_timestamp_deps-Debug-dfed0f0380dbee1c645a.json",
+					"name" : "parser_test_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "quiver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quiver-Debug-2bf1cff6076d7158995c.json",
+					"name" : "quiver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "quiver_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quiver_autogen-Debug-6765dbb3543a66483750.json",
+					"name" : "quiver_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "quiver_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quiver_autogen_timestamp_deps-Debug-d5f459017c0227d59973.json",
+					"name" : "quiver_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "read_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-read_test-Debug-ef8dddcc0ebc89cd8aa3.json",
+					"name" : "read_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "read_test_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-read_test_autogen-Debug-4ebde70a0e9f204d832f.json",
+					"name" : "read_test_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "read_test_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-read_test_autogen_timestamp_deps-Debug-b4614b7220b19ce1806a.json",
+					"name" : "read_test_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "state::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-state-Debug-98793add02b145f43a8e.json",
+					"name" : "state",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "state_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-state_autogen-Debug-73f4ab0ea237894ad0b0.json",
+					"name" : "state_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "state_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-state_autogen_timestamp_deps-Debug-ae9ffe71d9d5e40a9b57.json",
+					"name" : "state_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uni_mat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uni_mat-Debug-e6551cd74371cdc2f3ad.json",
+					"name" : "uni_mat",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uni_mat_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uni_mat_autogen-Debug-4cbdc384b1eaf22cbf37.json",
+					"name" : "uni_mat_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uni_mat_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uni_mat_autogen_timestamp_deps-Debug-51ee7bf55ff2d1beb100.json",
+					"name" : "uni_mat_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/divinitist/easy_quiver/build",
+		"source" : "/home/divinitist/easy_quiver"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

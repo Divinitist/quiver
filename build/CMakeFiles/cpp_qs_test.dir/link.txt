@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/cpp_qs_test.dir/cpp_qs_test_autogen/mocs_compilation.cpp.o CMakeFiles/cpp_qs_test.dir/main/cpp_qs_test.cpp.o -o cpp_qs_test  libnon_qt_lib.a 

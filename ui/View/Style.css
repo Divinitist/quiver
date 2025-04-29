@@ -1,0 +1,142 @@
+QWidget {
+    /* background-color: #007777; */
+    background-color: #005555;
+    color: white;
+    font-size: 14px;
+    font-family:monospace;
+}
+
+QTextEdit {
+    background-color: #007777;
+    border: none;
+    font-family: 'Consolas';
+}
+
+QGraphicsView {
+    background-color: #009999;
+    border: none;
+}
+
+#fileView > QTreeWidget * {
+    font-size: 14px;
+    background-color: #006666;
+    border: none;
+}
+
+QTreeWidget {
+    background-color: #006666;
+    border: none;
+}
+
+QMenuBar {
+    background-color: #007777;
+}
+
+QMenuBar::item {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0px;
+}
+
+QMenuBar::item:disabled {
+    color: #999999;
+}
+
+QMenuBar::item:selected {
+    background-color: #008888;
+}
+
+QMenu::item {
+    background-color: #008888;
+    border: 1px solid #007777;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0px;
+}
+
+QMenu::item:disabled {
+    color: #999999;
+}
+
+QMenu::item:selected {
+    background-color: #009999;
+}
+
+QTreeWidget::item {
+    padding: 3px;
+}
+
+QTreeWidget::item:selected * {
+    margin: 0px;
+}
+
+QTreeWidget * {
+    border: none;
+    outline: 0px;
+}
+
+QTreeWidget::item:selected  {
+    background-color: #008888;
+}
+
+QTreeWidget::branch:!has-children:selected {
+    background-color: #008888;
+}
+
+
+QPushButton { /* 这是打开文件夹按钮，不知道该怎么去区分。其他的按钮不知道怎么办 */
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #006666;
+}
+
+QPushButton:hover {
+    background-color: #008888;
+}
+
+QPushButton:pressed {
+    background-color: #007777;
+}
+
+QPushButton:checked {
+    background-color: #008888;
+}
+
+QTreeWidget QScrollBar::add-page:vertical,
+QTreeWidget QScrollBar::add-page:horizontal,
+QTreeWidget QScrollBar::sub-page:vertical,
+QTreeWidget QScrollBar::sub-page:horizontal {
+    border: none;
+    background-color: #006666;
+}
+
+QTextEdit QScrollBar::add-page:vertical,
+QTextEdit QScrollBar::add-page:horizontal,
+QTextEdit QScrollBar::sub-page:vertical,
+QTextEdit QScrollBar::sub-page:horizontal {
+    border: none;
+    background-color: #007777;
+}
+
+QScrollBar::handle:vertical, 
+QScrollBar::handle:horizontal {
+    border: none;
+    background-color: #008888;
+}
+
+QScrollBar::add-line:vertical, 
+QScrollBar::sub-line:vertical {
+    border: none;
+    height: 0px;
+}
+
+QScrollBar::add-line:horizontal,
+QScrollBar::sub-line:horizontal {
+    border: none;
+    width: 0px;
+}

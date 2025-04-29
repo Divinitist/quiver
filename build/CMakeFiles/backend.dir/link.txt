@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/backend.dir/backend_autogen/mocs_compilation.cpp.o CMakeFiles/backend.dir/main/backend.cpp.o -o backend  libnon_qt_lib.a 

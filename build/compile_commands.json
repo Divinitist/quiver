@@ -1,0 +1,147 @@
+[
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/non_qt_lib_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/non_qt_lib.dir/non_qt_lib_autogen/mocs_compilation.cpp.o -c /home/divinitist/easy_quiver/build/non_qt_lib_autogen/mocs_compilation.cpp",
+  "file": "/home/divinitist/easy_quiver/build/non_qt_lib_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/non_qt_lib_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/non_qt_lib.dir/src/algorithm/order_finding.cpp.o -c /home/divinitist/easy_quiver/src/algorithm/order_finding.cpp",
+  "file": "/home/divinitist/easy_quiver/src/algorithm/order_finding.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/non_qt_lib_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/non_qt_lib.dir/src/algorithm/shor.cpp.o -c /home/divinitist/easy_quiver/src/algorithm/shor.cpp",
+  "file": "/home/divinitist/easy_quiver/src/algorithm/shor.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/non_qt_lib_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/non_qt_lib.dir/src/circuit/circuit.cpp.o -c /home/divinitist/easy_quiver/src/circuit/circuit.cpp",
+  "file": "/home/divinitist/easy_quiver/src/circuit/circuit.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/non_qt_lib_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/non_qt_lib.dir/src/common/common.cpp.o -c /home/divinitist/easy_quiver/src/common/common.cpp",
+  "file": "/home/divinitist/easy_quiver/src/common/common.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/non_qt_lib_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/non_qt_lib.dir/src/parser/order_finding.cpp.o -c /home/divinitist/easy_quiver/src/parser/order_finding.cpp",
+  "file": "/home/divinitist/easy_quiver/src/parser/order_finding.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/non_qt_lib_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/non_qt_lib.dir/src/parser/parser.cpp.o -c /home/divinitist/easy_quiver/src/parser/parser.cpp",
+  "file": "/home/divinitist/easy_quiver/src/parser/parser.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/non_qt_lib_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/non_qt_lib.dir/src/state/state.cpp.o -c /home/divinitist/easy_quiver/src/state/state.cpp",
+  "file": "/home/divinitist/easy_quiver/src/state/state.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/non_qt_lib_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/non_qt_lib.dir/src/uni_mat/uni_mat.cpp.o -c /home/divinitist/easy_quiver/src/uni_mat/uni_mat.cpp",
+  "file": "/home/divinitist/easy_quiver/src/uni_mat/uni_mat.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/algo_test_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/algo_test.dir/algo_test_autogen/mocs_compilation.cpp.o -c /home/divinitist/easy_quiver/build/algo_test_autogen/mocs_compilation.cpp",
+  "file": "/home/divinitist/easy_quiver/build/algo_test_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/algo_test_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/algo_test.dir/main/algo_test.cpp.o -c /home/divinitist/easy_quiver/main/algo_test.cpp",
+  "file": "/home/divinitist/easy_quiver/main/algo_test.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/backend_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/backend.dir/backend_autogen/mocs_compilation.cpp.o -c /home/divinitist/easy_quiver/build/backend_autogen/mocs_compilation.cpp",
+  "file": "/home/divinitist/easy_quiver/build/backend_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/backend_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/backend.dir/main/backend.cpp.o -c /home/divinitist/easy_quiver/main/backend.cpp",
+  "file": "/home/divinitist/easy_quiver/main/backend.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/circuit_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/circuit.dir/circuit_autogen/mocs_compilation.cpp.o -c /home/divinitist/easy_quiver/build/circuit_autogen/mocs_compilation.cpp",
+  "file": "/home/divinitist/easy_quiver/build/circuit_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/circuit_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/circuit.dir/main/circuit.cpp.o -c /home/divinitist/easy_quiver/main/circuit.cpp",
+  "file": "/home/divinitist/easy_quiver/main/circuit.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/common_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/common.dir/common_autogen/mocs_compilation.cpp.o -c /home/divinitist/easy_quiver/build/common_autogen/mocs_compilation.cpp",
+  "file": "/home/divinitist/easy_quiver/build/common_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/common_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/common.dir/main/common.cpp.o -c /home/divinitist/easy_quiver/main/common.cpp",
+  "file": "/home/divinitist/easy_quiver/main/common.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/cpp_qs_test_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/cpp_qs_test.dir/cpp_qs_test_autogen/mocs_compilation.cpp.o -c /home/divinitist/easy_quiver/build/cpp_qs_test_autogen/mocs_compilation.cpp",
+  "file": "/home/divinitist/easy_quiver/build/cpp_qs_test_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/cpp_qs_test_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/cpp_qs_test.dir/main/cpp_qs_test.cpp.o -c /home/divinitist/easy_quiver/main/cpp_qs_test.cpp",
+  "file": "/home/divinitist/easy_quiver/main/cpp_qs_test.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/parser_test_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/parser_test.dir/parser_test_autogen/mocs_compilation.cpp.o -c /home/divinitist/easy_quiver/build/parser_test_autogen/mocs_compilation.cpp",
+  "file": "/home/divinitist/easy_quiver/build/parser_test_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/parser_test_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/parser_test.dir/main/parser_test.cpp.o -c /home/divinitist/easy_quiver/main/parser_test.cpp",
+  "file": "/home/divinitist/easy_quiver/main/parser_test.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/read_test_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/read_test.dir/read_test_autogen/mocs_compilation.cpp.o -c /home/divinitist/easy_quiver/build/read_test_autogen/mocs_compilation.cpp",
+  "file": "/home/divinitist/easy_quiver/build/read_test_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/read_test_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/read_test.dir/main/read_test.cpp.o -c /home/divinitist/easy_quiver/main/read_test.cpp",
+  "file": "/home/divinitist/easy_quiver/main/read_test.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/state_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/state.dir/state_autogen/mocs_compilation.cpp.o -c /home/divinitist/easy_quiver/build/state_autogen/mocs_compilation.cpp",
+  "file": "/home/divinitist/easy_quiver/build/state_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/state_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/state.dir/main/state.cpp.o -c /home/divinitist/easy_quiver/main/state.cpp",
+  "file": "/home/divinitist/easy_quiver/main/state.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/uni_mat_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/uni_mat.dir/uni_mat_autogen/mocs_compilation.cpp.o -c /home/divinitist/easy_quiver/build/uni_mat_autogen/mocs_compilation.cpp",
+  "file": "/home/divinitist/easy_quiver/build/uni_mat_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -I/home/divinitist/easy_quiver/build/uni_mat_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/build -g -std=gnu++20 -o CMakeFiles/uni_mat.dir/main/uni_mat.cpp.o -c /home/divinitist/easy_quiver/main/uni_mat.cpp",
+  "file": "/home/divinitist/easy_quiver/main/uni_mat.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/divinitist/easy_quiver/build/quiver_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/ui -I/home/divinitist/easy_quiver/. -I/home/divinitist/easy_quiver/build -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++20 -o CMakeFiles/quiver.dir/quiver_autogen/mocs_compilation.cpp.o -c /home/divinitist/easy_quiver/build/quiver_autogen/mocs_compilation.cpp",
+  "file": "/home/divinitist/easy_quiver/build/quiver_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/divinitist/easy_quiver/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/divinitist/easy_quiver/build/quiver_autogen/include -I/home/divinitist/easy_quiver/main -I/home/divinitist/easy_quiver/src -I/home/divinitist/easy_quiver/ui -I/home/divinitist/easy_quiver/. -I/home/divinitist/easy_quiver/build -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++20 -o CMakeFiles/quiver.dir/ui/Main.cpp.o -c /home/divinitist/easy_quiver/ui/Main.cpp",
+  "file": "/home/divinitist/easy_quiver/ui/Main.cpp"
+}
+]

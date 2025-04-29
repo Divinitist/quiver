@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/parser_test.dir/parser_test_autogen/mocs_compilation.cpp.o CMakeFiles/parser_test.dir/main/parser_test.cpp.o -o parser_test  libnon_qt_lib.a 

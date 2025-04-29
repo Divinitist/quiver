@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnon_qt_lib.a CMakeFiles/non_qt_lib.dir/non_qt_lib_autogen/mocs_compilation.cpp.o CMakeFiles/non_qt_lib.dir/src/algorithm/order_finding.cpp.o CMakeFiles/non_qt_lib.dir/src/algorithm/shor.cpp.o CMakeFiles/non_qt_lib.dir/src/circuit/circuit.cpp.o CMakeFiles/non_qt_lib.dir/src/common/common.cpp.o CMakeFiles/non_qt_lib.dir/src/parser/order_finding.cpp.o CMakeFiles/non_qt_lib.dir/src/parser/parser.cpp.o CMakeFiles/non_qt_lib.dir/src/state/state.cpp.o CMakeFiles/non_qt_lib.dir/src/uni_mat/uni_mat.cpp.o
+/usr/bin/ranlib libnon_qt_lib.a
