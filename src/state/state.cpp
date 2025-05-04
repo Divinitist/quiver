@@ -106,7 +106,7 @@ bool State::is_norm_sum_1() {
         sum += norm(coef[i]);
     }
     // 近似判断相等
-    return abs(sum - 1.0) < 1e-6;
+    return std::abs(sum - 1.0) < 1e-6;
 }
 
 void State::free_gate(u32 idx, UniMat u) {

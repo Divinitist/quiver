@@ -1,5 +1,5 @@
 qs_begin
-    var N = 77
+    var N = 13
     var x = 5
     var L = 0
     while (1 << L) < N begin

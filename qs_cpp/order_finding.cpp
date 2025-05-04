@@ -1,7 +1,7 @@
 #include "parser/qs_cpp.h"
 
 qs_begin
-    var N = 77
+    var N = 23
     var x = 5
     var L = 0
     while (1 << L) < N begin
