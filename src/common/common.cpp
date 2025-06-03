@@ -173,7 +173,7 @@ void PM::read_from(str name, u8 *buf, ssize_t size) {
         // buf[read_size] = '\0';
         printf("[ppm] received %ld bytes from '%s': '", read_size, name.c_str());
         for (auto i = 0; i < read_size; ++i) {
-            if (32 <= buf[i] <= 126) printf("%c", buf[i]);
+            if (32 <= buf[i] && buf[i] <= 126) printf("%c", buf[i]);
             // hhu代表half half u32
             else printf("\\%u", (u32)buf[i]);
         }

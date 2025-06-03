@@ -122,7 +122,7 @@ bool Parser::parse(const vec<str> &qs_lines) {
             "while", 
             "assign", "declare", "start",
             "state", "new_state", 
-            "apply", "on", "at", "call", "atall",
+            "apply", "on", "at", "call", "atall", "by",
             "upcount", "downcount"
         })) {
             M_ADD_TOKEN(KEYWORD, i);

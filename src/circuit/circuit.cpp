@@ -71,11 +71,11 @@ void Circuit::add_stage(str _name) {
     add_stage(Stage(_name));
 }
 void Circuit::run(bool rush_need_print, RunMode run_mode) {
-    printf("circuit %s\n", name.c_str());
+    // printf("circuit %s\n", name.c_str());
     for(auto& stage : stages) {
-        printf("stage %s\n", stage.name.c_str());
+        // printf("stage %s\n", stage.name.c_str());
         for(auto& gate : stage.gates) {
-            printf("gate %s\n", gate.name.c_str());
+            // printf("gate %s\n", gate.name.c_str());
             gate.f(state);
             if(run_mode == BY_GATE) {
                 state.print_comp_distr(false, std::format("[{}] gate '{}' in stage '{}'", name, gate.name, stage.name));

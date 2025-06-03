@@ -1,7 +1,7 @@
 #include "parser/qs_cpp.h"
 
 qs_begin
-    var N = 23
+    var N = 7
     var x = 5
     var L = 0
     while (1 << L) < N begin
@@ -51,7 +51,4 @@ qs_begin
         end
         apply H at (i)
     end
-    // run_by_stage
-    // run_all
-    // show (0, t - 1)
 qs_end
